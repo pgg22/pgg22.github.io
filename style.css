@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    color:rgb(255, 255, 255);
+    cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1054.cur), auto !important;
+    font-family: Nunito;
+    text-shadow: 0 0 2px #2c1a5c, 0 0 2px #fff;  
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    /**background-image: url("https://sadhost.neocities.org/images/tiles/wp15.gif");**/
+    /**background-image: url("https://sadhost.neocities.org/images/tiles/bk024.gif");
+    /**background-image: url("https://sadhost.neocities.org/images/tiles/catcolors.gif");
+    /**background-image: url("https://sadhost.neocities.org/images/tiles/bgif088.gif");**/
+    background-color: #d5b89f;
+    /**background-image: url("./assets/spirla.png");**/
+
+   background-color: #f7cac8 ;
+    opacity: 1;
+    background-image:  radial-gradient(#714f89 4px, transparent 4px), radial-gradient(#714f89 4px, #f7cac8  4px);
+    background-size: 80px 80px;
+    background-position: 0 0,40px 40px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height:inherit;
+}
+
+header {
+    align-content: center;
+    background-color: rgb(70, 56, 80);
+    border-bottom: 25px rgb(24, 20, 28) double;
+    border-radius: 0px 0px 15px 15px;
+    height: 8px;
+}
+
+footer {
+    background-color: rgb(70, 56, 80);
+    border-bottom: 25px rgb(24, 20, 28) double;
+    border-radius: 15px 15px 0px 0px;
+    height: 8px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+a {
+    color: #de6f11;
+}
+
+a:hover {
+    color:#564562;
+}
+
+
+
+
+/** MENU !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! **/
+
+
+#menu {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 7px;
+    width: fit-content;
+}
+
+#section_droite {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin: 7px;
+    min-width: max-content;
+    align-items: end;
+}
+
+button {
+    font-size: 25px;
+    border: 9px rgb(24, 20, 28) double;
+    border-radius: 15px;
+    padding: 1px 10px 1px 10px; /* padding lateral sert a rien la */
+    background-color: #714f89;
+}
+
+button:hover {
+    background-color: #b5a7b6;
+}
+
+
+
+/** INSIDE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**/
+
+
+
+
+
+#inside {
+    font-size: larger;
+    display: flex;
+    height: inherit;
+}
+
+
+
+
+/** FENETRE!!!!!!!!!!!!!!!!!!!!!     **/
+
+
+#window {
+    text-align: start;
+    width: 100%;
+    border: 9px rgb(27, 21, 29) double;
+    border-radius: 25px;
+    background-color: #714f89;
+    margin: 4px;
+
+    max-width: 80%;
+    overflow-y: scroll;
+}
+
+.window_content {
+    background-color: #714f89;
+    opacity: 1;
+    background-image:  linear-gradient(135deg, #714f89 25%, transparent 25%), linear-gradient(225deg, #714f89 25%, transparent 25%), linear-gradient(45deg, #714f89 25%, transparent 25%), linear-gradient(315deg, #714f89 25%, #564562 25%);
+    background-position:  30px 0, 30px 0, 0 0, 0 0;
+    background-size: 30px 30px;
+    background-repeat: repeat;
+    min-height: max-content + 10;
+}
+
+.window_content * {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.window_content h2 {
+    text-align: center;
+    margin: 0px;
+    border-bottom: 9px rgb(27, 21, 29) double;
+    background-color: #714f89;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.window_content h3 {
+    margin-left: 15px;
+    width: 50%;
+    border-bottom: 2px #fff solid;
+    box-shadow: 0 3px 2px -2px #fff;  
+}
+
+
+.window_content img {
+    width:200px;
+}
+
+
+
+
+
+/** ABOUT  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! **/
+
+
+#about {
+    border: 3px rgb(27, 21, 29) solid;
+    border-radius: 25px;
+    max-width: min-content;
+    height: fit-content;
+
+    background-color: #564562;
+    opacity: 1;
+    background-image:  linear-gradient(135deg, #714f89 25%, transparent 25%), linear-gradient(225deg, #714f89 25%, transparent 25%), linear-gradient(45deg, #714f89 25%, transparent 25%), linear-gradient(315deg, #714f89 25%, #564562 25%);
+    background-position:  30px 0, 30px 0, 0 0, 0 0;
+    background-size: 30px 30px;
+    background-repeat: repeat;
+}
+
+#id_pic { 
+    height:200px;
+    border: 10px double rgb(27, 21, 29);
+    border-radius: 100px;
+    background-color: #f7cac8;
+    margin: 10px;
+}
+
+
+
+/** EUHHHHHHHHHHHH LES JEUX LA **/
+
+.jeux_about {
+    display: flex;
+    flex-direction: column;
+    width:fit-content;
+}
+
+.jeux_about * {
+    width:fit-content;
+}
+
+.liste_jeux {
+    display: flex;
+    flex-direction: row;
+    width: min-content;
+    align-items: center;
+}
+
+
+/** LES DESSINS **/

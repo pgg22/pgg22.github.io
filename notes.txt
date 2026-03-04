@@ -1,0 +1,54 @@
+le footer est en position absolute et est baisse c pr ca que la window ne peut pas etre baissée plus
+psk elle est contre le footer va savoir PK!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+rajouter les dessins de fairy poppop  
+
+
+
+button 
+    width: -moz-available;
+    width: -webkit-fill-available;
+
+    ???? WHATEVER
+
+
+
+
+<div class="marquee">
+                    <ul class="marquee_content">
+                        <li><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e60fd151-4f04-478f-b159-ab8f1ef291ea/dckxfyb-79cd8601-f35c-4800-89a9-9c3578c5d10e.png/v1/fill/w_99,h_56/stamp81_by_toysoidiers_dckxfyb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiXC9mXC9lNjBmZDE1MS00ZjA0LTQ3OGYtYjE1OS1hYjhmMWVmMjkxZWFcL2Rja3hmeWItNzljZDg2MDEtZjM1Yy00ODAwLTg5YTktOWMzNTc4YzVkMTBlLnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CGsR2rdzSta-jXkn7jLmUXk9cftD-0tfmhgOq11web4"></li>
+                        <li><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd695a56-b840-4407-bf9c-ea0939b5cb16/dcjerm0-daad5d54-b57a-4e61-9b98-0589ac7b3f89.png/v1/fill/w_99,h_56/_stamp__louis_wain_cats_by_environmentalism_dcjerm0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYiLCJwYXRoIjoiXC9mXC9mZDY5NWE1Ni1iODQwLTQ0MDctYmY5Yy1lYTA5MzliNWNiMTZcL2RjamVybTAtZGFhZDVkNTQtYjU3YS00ZTYxLTliOTgtMDU4OWFjN2IzZjg5LnBuZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Za21bi9Awk1ON_TOQIuDrV6ub52U7mtQwkoiqmtZBjA"></li>
+                        <li><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54d58b62-d3fd-4c94-8d51-1d6df8ea6a18/d2nu26x-d4b324dd-8798-4812-b1f0-5e11641a645e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ZDU4YjYyLWQzZmQtNGM5NC04ZDUxLTFkNmRmOGVhNmExOFwvZDJudTI2eC1kNGIzMjRkZC04Nzk4LTQ4MTItYjFmMC01ZTExNjQxYTY0NWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oAzcsCTldp4FIv4Gz8CD957yLHlbbK3xL9ZHsGfsn-4"></li>
+                        <li><img src="https://wowzow.neocities.org/stamps/stamp23.png"></li>
+                        <li><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9865a25b-3dcf-4076-ad61-b1e7a6a31980/darpsjq-982e2cec-1a00-42cb-af8b-940a6431a989.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4NjVhMjViLTNkY2YtNDA3Ni1hZDYxLWIxZTdhNmEzMTk4MFwvZGFycHNqcS05ODJlMmNlYy0xYTAwLTQyY2ItYWY4Yi05NDBhNjQzMWE5ODkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OYgiaAKERLJEWaPporvrol1ZEsjDraAtOSaFqADbFQw"></li>
+                        <li><img src="https://gifcity.carrd.co/assets/images/gallery131/907e2c12.jpg?v=e3c0bc0f"></li>
+                        <li><img src="https://gifcity.carrd.co/assets/images/gallery318/2c956116.png?v=e3c0bc0f"></li>
+                        <li><img src="https://gifcity.carrd.co/assets/images/gallery60/a6e71ca9.png?v=e3c0bc0f"></li>
+                    </ul>
+            </div>
+
+
+
+.marquee {
+  --gap: 0.25rem;
+  display: flex;
+  overflow: hidden;
+  user-select: none;
+  gap: var(--gap);
+}
+
+.marquee_content {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-around;
+  min-width: 100%;
+  gap: var(--gap);
+  animation: 20s linear infinite scroll;
+  list-style: none;
+}
+
+@keyframes scroll {
+  0%    { transform: translateX(100%); }
+  100%  { transform: translateX(0%); }
+}
